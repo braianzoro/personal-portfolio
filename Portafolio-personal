@@ -1,0 +1,36 @@
+                <a href="https://github.com/[TU_USUARIO]/basic-calculator" target="_blank">🔗 View on GitHub</a>
+            </div>
+
+            <div class="project-item">
+                <h3>2. Personal Portfolio Website</h3>
+                <div class="tech-stack">HTML, CSS</div>
+                <p>Responsive and clean design web page showcasing personal information, skills, and project links.</p>
+                <a href="https://github.com/[TU_USUARIO]/portfolio" target="_blank">🔗 View on GitHub</a>
+            </div>
+
+            <div class="project-item">
+                <h3>3. Notes Management System</h3>
+                <div class="tech-stack">C#, OOP</div>
+                <p>Application to create, view, edit, and delete notes, with persistent data storage in text files.</p>
+                <a href="https://github.com/[TU_USUARIO]/notes-manager" target="_blank">🔗 View on GitHub</a>
+            </div>
+
+            <div class="project-item">
+                <h3>4. Logic & Algorithm Exercises</h3>
+                <div class="tech-stack">C, Pseint</div>
+                <p>Collection of solved programming problems and logical flowcharts.</p>
+                <a href="https://github.com/[TU_USUARIO]/logic-exercises" target="_blank">🔗 View on GitHub</a>
+            </div>
+        </section>
+
+        <section class="education">
+            <h2>EDUCATION</h2>
+            <div class="education-item">
+                <strong>Bachelor's Degree in Computer Engineering</strong><br>
+                [Name of your University]<br>
+                <span style="color: var(--text-light);">2025 - 2030 | Currently in Second Year</span>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

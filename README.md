@@ -1,2 +1,14 @@
-# personal-portfolio
-Sitio web personal donde presento mi perfil profesional, proyectos realizados, habilidades y formas de contacto.
+# Portafolio Personal 🌐
+
+Sitio web diseñado para mostrar mi perfil profesional, proyectos y habilidades.
+
+## 📋 Secciones
+- Sobre mí
+- Habilidades
+- Proyectos
+- Contacto
+
+## 💻 Tecnologías
+- HTML
+- CSS
+- 
